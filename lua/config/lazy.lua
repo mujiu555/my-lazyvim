@@ -50,4 +50,9 @@ require("lazy").setup({
       },
     },
   },
+  dev = {
+    path = vim.fn.stdpath("config") .. "/../../tmp/prj/proj.lua",
+    patterns = {},
+    fallback = false,
+  },
 })
