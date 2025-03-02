@@ -16,12 +16,11 @@
     "lazyvim.plugins.extras.lang.omnisharp",
     "lazyvim.plugins.extras.test.core",
     "lazyvim.plugins.extras.ui.edgy",
-    "lazyvim.plugins.extras.ui.smear-cursor",
     "lazyvim.plugins.extras.util.project"
   ],
   "install_version": 7,
   "news": {
     "NEWS.md": "10960"
   },
-  "version": 8
+  "version": 7
 }
