@@ -4,7 +4,7 @@ return {
     lazy = true,
     opts = {
       style = "moon",
-      transparent = true,
+      transparent = false,
       styles = {
         sidebars = "transparent",
         floats = "transparent",
@@ -14,7 +14,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "tokyonight-day",
+      colorscheme = "tokyonight",
     },
   },
 }
