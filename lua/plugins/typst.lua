@@ -16,7 +16,7 @@ return {
         ---@type vim.lsp.Config
         tinymist = {
           mason = false,
-          root_markers = { ".git", ".typsite" },
+          root_markers = { ".typsite", ".git" },
         },
       },
     },
